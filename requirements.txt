@@ -1,0 +1,25 @@
+fastapi
+uvicorn
+python-multipart
+nltk
+python-docx
+PyPDF2
+pandas
+streamlit
+requests
+beautifulsoup4
+
+# Vector search
+faiss-cpu
+numpy
+
+# Ollama (local LLM)
+ollama
+
+# Cloud LLM providers (optional - install as needed)
+openai              # OpenAI and Azure OpenAI
+google-generativeai # Google Gemini
+anthropic           # Anthropic Claude
+
+# Reranking (optional - for cross-encoder)
+sentence-transformers
